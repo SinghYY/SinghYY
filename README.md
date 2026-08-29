@@ -22,6 +22,6 @@
 ## 正在推进
 
 - [x] 搭建本作品集
-- [ ] DC-1 渗透测试完整报告
+- [x] [DC-1 渗透测试完整报告](https://github.com/SinghYY/Pentest-Reports/tree/main/Vulnhub-DC-1)
 - [ ] 护网蓝队方向实战积累
 - [ ] CTF 持续刷题中

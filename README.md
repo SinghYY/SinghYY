@@ -18,6 +18,7 @@
 |---|---|
 | [CTF-Writeups](https://github.com/SinghYY/CTF-Writeups) | CTF 题解集 |
 | [Pentest-Reports](https://github.com/SinghYY/Pentest-Reports) | 渗透测试报告 |
+| [Security-Study-Roadmap](https://github.com/SinghYY/Security-Study-Roadmap) | 网络安全校招备考分档路线图（等保+应急方向） |
 
 ## 正在推进
 

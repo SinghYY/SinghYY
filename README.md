@@ -41,9 +41,12 @@ mindmap
       ASVS
       关基保护
     作品集
-      CTF-Writeups
-      Pentest-Reports
-      Study-Roadmap
+      ctf["CTF-Writeups"]
+      pen["Pentest-Reports"]
+      road["Study-Roadmap"]
+click ctf "https://github.com/SinghYY/CTF-Writeups" _blank
+click pen "https://github.com/SinghYY/Pentest-Reports" _blank
+click road "https://github.com/SinghYY/Security-Study-Roadmap" _blank
 ```
 
 ## 正在推进

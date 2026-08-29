@@ -22,32 +22,9 @@
 
 ## 学习路线脑图
 
-```mermaid
-mindmap
-  root((安服岗校招冲刺))
-    第一档·近期必精通
-      等保 2.0
-      OWASP Top10
-      密评
-      WSTG
-      PTES
-      MITRE ATT&CK
-      数据安全法 / PIPL
-      CVSS / CWE
-    第二档·中期夯实
-      ISO 27001
-      NIST CSF
-      护网 HW
-      ASVS
-      关基保护
-    作品集
-      ctf["CTF-Writeups"]
-      pen["Pentest-Reports"]
-      road["Study-Roadmap"]
-click ctf "https://github.com/SinghYY/CTF-Writeups" _blank
-click pen "https://github.com/SinghYY/Pentest-Reports" _blank
-click road "https://github.com/SinghYY/Security-Study-Roadmap" _blank
-```
+![安服学习流程思维导图](assets/mindmap.svg)
+
+> 图形化思维导图：中心为「安服学习流程」，三大分支分别为 **第一档·近期必精通**、**第二档·中期夯实**、**作品集**。仓库跳转见上方「作品集导航」表格。
 
 ## 正在推进
 

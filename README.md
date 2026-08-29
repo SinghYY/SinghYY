@@ -20,6 +20,32 @@
 | [Pentest-Reports](https://github.com/SinghYY/Pentest-Reports) | 渗透测试报告 |
 | [Security-Study-Roadmap](https://github.com/SinghYY/Security-Study-Roadmap) | 网络安全校招备考分档路线图（等保+应急方向） |
 
+## 学习路线脑图
+
+```mermaid
+mindmap
+  root((安服岗校招冲刺))
+    第一档·近期必精通
+      等保 2.0
+      OWASP Top10
+      密评
+      WSTG
+      PTES
+      MITRE ATT&CK
+      数据安全法 / PIPL
+      CVSS / CWE
+    第二档·中期夯实
+      ISO 27001
+      NIST CSF
+      护网 HW
+      ASVS
+      关基保护
+    作品集
+      CTF-Writeups
+      Pentest-Reports
+      Study-Roadmap
+```
+
 ## 正在推进
 
 - [x] 搭建本作品集

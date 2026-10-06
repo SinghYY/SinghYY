@@ -22,7 +22,7 @@
 | [Security-Study-Roadmap](https://github.com/SinghYY/Security-Study-Roadmap) | 网络安全校招备考分档路线图（等保+应急方向） |
 | [asset-collection-workflow](https://github.com/SinghYY/asset-collection-workflow) | 资产收集分级工作流（合规优先的资产收集工具，Python） |
 
-### 重点项目：资产收集分级工作流
+### 资产收集分级工作流
 
 面向**授权安全测试**（安全服务 / SRC 漏洞挖掘）的资产收集工具。
 
